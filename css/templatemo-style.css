@@ -554,6 +554,18 @@ footer
     }
 }
 
+#home .btn {
+	background: #007acc;
+	color: #fff;
+	font-weight: bold;
+	transition: all 0.3s ease;
+	border-radius: 20px;
+	padding: 10px 20px 10px 20px;
+	margin-top: 20px;
+	border: 2px solid #007acc;
+	font-size: larger;
+}
+
 #contact .btn {
 	background: #007acc;
 	color: #fff;
