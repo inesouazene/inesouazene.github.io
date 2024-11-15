@@ -13,7 +13,7 @@ http://www.templatemo.com/tm-446-boxer
 
 .navbar-brand img {
 	height: 200%;
-	width: 100%;
+	max-width: 100%;
 }
 
 body{
